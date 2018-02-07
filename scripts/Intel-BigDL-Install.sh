@@ -1,2 +1,2 @@
-# Installation Script
+#! /bin/bash
 
